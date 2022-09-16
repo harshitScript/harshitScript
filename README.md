@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @harshitScript
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning javascript frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email : www.harshitbhawsar777@gmail.com
+# HARSHIT BHAWSAR 🧜‍♂️
 
-<!---
-harshitScript/harshitScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An energetic Web-developer with over 1 year of experience effectively building, managing and deploying projects from scratch to completion. Using my Web-development skills to increase overall web world's productivity. A geek for new techs. Solving day to day problems in my repos.
+
+## My Tech Stack
+- #### 👨‍💻 Front-end
+  - ReactJS 
+  - NextJS(SSR)
+  - Vanilla Js
+  - TypeScript
+  - Redux
+  - RTK Query
+  - HTML5
+  - AJAX
+  - Optimization
+  
+- #### 🧑‍🎨 Styling
+  - Styled-Components
+  - Material UI
+  - SaSS
+  - Css-Module
+  - React-BootStrap
+
+- #### 🛸 Back-end
+  - ExpressJS
+  - NodeJS
+  - EJS
+  - MVC
+  
+- #### 🛢️ Database
+  - SQL/Relational (MySql)
+  - NoSQL/Non-Relational (MongoDb)
+  - Sequelize
+  - Mongoose
+  
+- #### 🧞‍♂️ Other
+  - Version-Control (Github)
+  - Google
+  - StackOverflow
+  - Quora
+ 
+
+
+## 📫 How to reach me: 
+  - <a href="https://www.linkedin.com/in/harshit-bhawsar-311a571bb/">Linked-in</a>
+  - <a href="https://wa.me/7974792317">Whatsapp</a>
+  - <a href="mailto:www.harshitbhawsar777@gmail.com">Mail</a>
+
+
+
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshitScript&show_icons=true&theme=dark)
+
