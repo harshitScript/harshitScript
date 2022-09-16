@@ -42,9 +42,9 @@ An energetic Web-developer with over 1 year of experience effectively building, 
 
 
 ## 📫 How to reach me: 
-  - <a href="https://www.linkedin.com/in/harshit-bhawsar-311a571bb/">Linked-in</a>
-  - <a href="https://wa.me/7974792317">Whatsapp</a>
-  - <a href="mailto:www.harshitbhawsar777@gmail.com">Mail</a>
+  - <a href="https://www.linkedin.com/in/harshit-bhawsar-311a571bb/" target="_blank">Linked-in</a>
+  - <a href="https://wa.me/7974792317" target="_blank">Whatsapp</a>
+  - <a href="mailto:www.harshitbhawsar777@gmail.com" target="_blank">Mail</a>
 
 
 
