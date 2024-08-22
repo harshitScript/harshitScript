@@ -6,6 +6,7 @@ As an accomplished web developer with over three years of experience, I speciali
 - #### 👨‍💻 Front-end
   - ReactJS 
   - Vanilla Js
+  - Typescript
   - Redux
   - RTK Query
   - HTML5
